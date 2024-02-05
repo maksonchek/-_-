@@ -1,0 +1,5 @@
+1.	An Introduction to Information Retrieval. Christopher D. Manning Prabhakar Raghavan Hinrich Schütze. Online edition (c) 2009 Cambridge UP
+2.	Geeks for geeks
+3.	habr
+4.	An Introduction to Information Retrieval. Christopher D. Manning Prabhakar Raghavan Hinrich Schütze. Online edition (c) 2009 Cambridge UP. Страница 37
+5.	Алгоритм Баеза-Ятеса-Салингера  https://cs.uwaterloo.ca/~ajsaling/papers/paper-spire.pdf
